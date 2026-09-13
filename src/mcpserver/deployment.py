@@ -1,5 +1,5 @@
 # server.py
-from mcp.server.fastmcp import MCPServer
+from mcp.server import MCPServer
 
 # Create an MCP server
 mcp = MCPServer("Demo")
